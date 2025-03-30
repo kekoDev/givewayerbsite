@@ -1,58 +1,58 @@
 {
     "Giveaways": "مسابقة",
-    "Available": "متاح",
-    "Joined": "انضم",
-    "Expired": "منتهي الصلاحية",
-    "No Giveaways": "لا توجد مسابقات",
-    "Giveaway Ended": "انتهى السحب",
+    "Available": "متاحة",
+    "Joined": "تم الانضمام",
+    "Expired": "منتهية",
+    "No Giveaways": "لا توجد مسابقات حاليًا",
+    "Giveaway Ended": "انتهت المسابقة",
     "Time Left: ": "الوقت المتبقي: ",
     "Incomplete Task": "مهمة غير مكتملة",
     "You must complete all tasks to join the giveaway.": "يجب عليك إكمال جميع المهام للانضمام إلى المسابقة.",
-    "Close": "أغلق",
-    "Success! You have joined the giveaway.": "نجاح! لقد انضممت إلى المسابقة.",
-    "An error occurred. Please try again later.": "حدث خطأ. يرجى المحاولة مرة أخرى لاحقاً.",
+    "Close": "إغلاق",
+    "Success! You have joined the giveaway.": "تم بنجاح! لقد انضممت إلى المسابقة.",
+    "An error occurred. Please try again later.": "حدث خطأ. يرجى المحاولة لاحقًا.",
     "Join Giveaway": "انضم إلى المسابقة",
-    "You have joined this Giveaway!": "لقد انضممت إلى هذه المسابقة!",
-    "Giveaway Winners!": "الفائزون بالمسابقة!",
-    "These are the top winners:": "هؤلاء هم الفائزون الرئيسيون:",
+    "You have joined this Giveaway!": "أنت بالفعل مشارك في هذه المسابقة!",
+    "Giveaway Winners!": "الفائزون في المسابقة!",
+    "These are the top winners:": "هؤلاء هم الفائزون الأوائل:",
     "See Winners": "عرض الفائزين",
-    "This Giveaway has ended!": "تم انتهاء هذا السحب!",
+    "This Giveaway has ended!": "تم انتهاء هذه المسابقة!",
     "🎉 Giveaway": "🎉 مسابقة",
     "Overview": "نظرة عامة",
     "Tasks": "المهام",
-    "Points": "نقاط",
+    "Points": "النقاط",
     "Tasks Completed: ": "المهام المكتملة: ",
     "🎯 Your Points : ": "🎯 نقاطك: ",
-    "🎉 Join the ultimate giveaway event of the year!\n\n🔥 Invite your friends and earn points to win amazing prizes!": "🎉 انضم إلى حدث السحب النهائي لهذا العام!\n\n🔥 ادعُ أصدقائك واكسب نقاط للفوز بجوائز رائعة!",
+    "🎉 Join the ultimate giveaway event of the year!\n\n🔥 Invite your friends and earn points to win amazing prizes!": "🎉 شارك الآن في أكبر مسابقة لهذا العام!\n\n🔥 ادعُ أصدقاءك واكسب النقاط لتفوز بجوائز مذهلة!",
     "Participate now using this link:": "شارك الآن باستخدام هذا الرابط:",
-    "Hurry! The more you invite, the better your chances! 🔥": "عجلوا! كلما زادت دعواتك، زادت فرصك! 🔥",
-    "Share to Earn More": "شارك لكسب المزيد",
-    "Complete the Tasks Below": "أكمل المهام أدناه",
-    "To be eligible for this giveaway, you must complete all the listed tasks. These tasks verify you're genuinely participating. Tap on each to open the related page.": "للتأهل لهذا السحب، يجب عليك إكمال جميع المهام المذكورة. هذه المهام تتحقق من أنك تشارك حقًا. اضغط على كل منها لفتح الصفحة المرتبطة.",
+    "Hurry! The more you invite, the better your chances! 🔥": "سارع! كلما دعوت أكثر، زادت فرصك في الفوز! 🔥",
+    "Share to Earn More": "شارك لتحصل على المزيد",
+    "Complete the Tasks Below": "أكمل المهام التالية",
+    "To be eligible for this giveaway, you must complete all the listed tasks. These tasks verify you're genuinely participating. Tap on each to open the related page.": "للتأهل للمسابقة، يجب إكمال جميع المهام المطلوبة. هذه المهام تضمن مشاركتك الفعلية. اضغط على كل مهمة لفتح الرابط المرتبط بها.",
     "✅ Task completed": "تمت المهمة ✅",
-    "Giveaway not active": "السحب غير مفعل",
-    "🔗 Tap to complete": "🔗 اضغط لإكمال",
-    "You must complete all tasks to be eligible for the giveaway.": "يجب أن تكمل جميع المهام لكي تكون مؤهلاً للمسابقة.",
+    "Giveaway not active": "المسابقة غير مفعّلة",
+    "🔗 Tap to complete": "🔗 اضغط للإكمال",
+    "You must complete all tasks to be eligible for the giveaway.": "يجب عليك إكمال جميع المهام لتكون مؤهلًا للمسابقة.",
     "🎯 Your Points": "🎯 نقاطك",
-    "Users who share their referral link and bring more participants will earn more points and have a higher chance to win the giveaway.": "المستخدمون الذين يشاركون رابط الإحالة الخاص بهم ويجلبون المزيد من المشاركين سيحصلون على المزيد من النقاط ولديهم فرصة أكبر للفوز بالمسابقة.",
-    "Top Users": "المستخدمين الأعلى",
-    "Task Completed Successfully!": "المهمة اكتملت بنجاح!",
+    "Users who share their referral link and bring more participants will earn more points and have a higher chance to win the giveaway.": "المستخدمون الذين يشاركون رابط الدعوة الخاص بهم ويجلبون المزيد من المشاركين سيحصلون على نقاط أكثر وفرص أكبر للفوز.",
+    "Top Users": "أفضل المشاركين",
+    "Task Completed Successfully!": "تم إكمال المهمة بنجاح!",
     "Great!": "رائع!",
-    "Open Task": "فتح المهمة",
-    "Paste your code here": "الصق الكود الخاص بك هنا",
-    "Check Completion": "التحقق مكتمل",
-    "Cancel": "الغاء",
-    "Join the provided channel and click 'Check Completion' to verify.": "انضم إلى القناة المقدمة واضغط على 'تحقق من الإكمال' للتحقق.",
-    "Complete the specified task in the provided link, then press 'Check Completion'.": "أكمل المهمة المحددة في الرابط المقدم، ثم اضغط على 'تحقق من الإكمال'.",
-    "Open the link, copy the provided code, and paste it here. Press 'Check Completion' when done.": "افتح الرابط، انسخ الكود المقدم ، وقم بلصقه هنا. اضغط 'تحقق من الاكتمال' عند الانتهاء.",
-    "Follow the instructions provided in the link.": "اتبع التعليمات المقدمة في الرابط.",
+    "Open Task": "افتح المهمة",
+    "Paste your code here": "الصق الكود هنا",
+    "Check Completion": "تحقق من الإكمال",
+    "Cancel": "إلغاء",
+    "Join the provided channel and click 'Check Completion' to verify.": "انضم إلى القناة المحددة ثم اضغط على 'تحقق من الإكمال'.",
+    "Complete the specified task in the provided link, then press 'Check Completion'.": "أكمل المهمة الموجودة في الرابط، ثم اضغط على 'تحقق من الإكمال'.",
+    "Open the link, copy the provided code, and paste it here. Press 'Check Completion' when done.": "افتح الرابط، انسخ الكود، ثم الصقه هنا. اضغط 'تحقق من الإكمال' عند الانتهاء.",
+    "Follow the instructions provided in the link.": "اتبع التعليمات الموجودة في الرابط.",
     "Show Less ▲": "عرض أقل ▲",
     "View More ▼": "عرض المزيد ▼",
-    "🎁 Prizes 🎁": "🎁 جوائز 🎁",
-    "Ended": "انتهى",
-    "Active": "نشط",
-    "🎁 Prizes": "🎁 جوائز",
-    "View Giveaway": "عرض المسابقة",
+    "🎁 Prizes 🎁": "🎁 الجوائز 🎁",
+    "Ended": "منتهية",
+    "Active": "نشطة",
+    "🎁 Prizes": "🎁 الجوائز",
+    "View Giveaway": "عرض تفاصيل المسابقة",
     "you": "أنت",
-    "Paste the code here": "قم بلصق الشيفرة هنا"
-}
+    "Paste the code here": "الصق الكود هنا"
+  }
