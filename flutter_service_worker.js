@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "21237b6a7f28cdee0a6cb9b458c051ef",
+const RESOURCES = {"flutter_bootstrap.js": "2170e1277e6bda8f70bd1fde07029647",
 "version.json": "1878eb31a3bc40841f62f9527cc13ba4",
 "index.html": "e8340537c55df81244f53450cc5025f5",
 "/": "e8340537c55df81244f53450cc5025f5",
-"main.dart.js?dd=11": "0cafb7a61980439a4789748103bbef3b",
+"main.dart.js": "58e4fa408502418e3c43831a9447abe9",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "telegram-web-app-v8.0.js": "8a3a98f707961d62a2bbc31e6f904a7a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -50,7 +50,7 @@ const RESOURCES = {"flutter_bootstrap.js": "21237b6a7f28cdee0a6cb9b458c051ef",
 "assets/packages/rive_animated_icon/assets/icons4.riv": "e1e065954b82deb7cacefaad8499880c",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "830cb0616ca57d7abaac5e538de682b2",
-"assets/fonts/MaterialIcons-Regular.otf": "8d5e87b90aae037c67749328b73e591d",
+"assets/fonts/MaterialIcons-Regular.otf": "ac6976cd7cfad3c065ad68daf3fb6561",
 "canvaskit/skwasm_st.js": "d1326ceef381ad382ab492ba5d96f04d",
 "canvaskit/skwasm.js": "f2ad9363618c5f62e813740099a80e63",
 "canvaskit/skwasm.js.symbols": "80806576fa1056b43dd6d0b445b4b6f7",
@@ -65,7 +65,7 @@ const RESOURCES = {"flutter_bootstrap.js": "21237b6a7f28cdee0a6cb9b458c051ef",
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206"};
 // The application shell files that are downloaded before a service worker can
 // start.
-const CORE = ["main.dart.js?dd=11",
+const CORE = ["main.dart.js",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
